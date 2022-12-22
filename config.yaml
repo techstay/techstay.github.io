@@ -199,12 +199,6 @@ menu:
         icon: brand-zhihu
 
 
-    - identifier: studynotes
-      name: 笔记
-      url: https://studynotes.techstay.tech
-      params:
-        icon: note
-
 related:
   includeNewer: true
   threshold: 60
